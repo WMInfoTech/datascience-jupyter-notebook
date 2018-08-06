@@ -11,6 +11,7 @@ RUN conda install alabaster \
     oauth2client openpyxl pathlib2 path.py pbr pep8 Platypus-Opt ply ptscotch pyasn1 pyasn1-modules \
     pycrypto pycurl pyflakes pylint pyodbc pyshp python-dateutil qtawesome qtconsole requests rope rsa \
     scalapack scotch shapely simplejson six snowballstemmer sortedcollections sphinx spyder SQLAlchemy \
-    tinyarray tornado unicodecsv unixodbc uritemplate wordcloud xlsxwriter xlwt mpi4py
+    tinyarray tornado unicodecsv unixodbc uritemplate wordcloud xlsxwriter xlwt
+
 
 
