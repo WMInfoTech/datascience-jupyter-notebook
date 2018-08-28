@@ -1,4 +1,4 @@
-FROM jupyter/datascience-notebook
+FROM jupyter/scipy-notebook
 
 RUN conda install alabaster \
     astroid astropy async_generator babel backports bitarray blaze boto \
